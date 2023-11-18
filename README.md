@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @lmmartinez97
+- 👋 Hi, I’m Luis Miguel Martinez -  @lmmartinez97
 - 👀 I’m interested in control engineering, autonomous driving and artificial intelligence.
-- 🌱 I’m currently studying a Master's Degree in Industrial Engineering.
-- 💞️ I’m looking to collaborate on whatever you think I can be of use in
+- 👨🏻‍🎓 I studied a BSc in Electronics Engineering, and an MSc in Industrial Engineering, with a specialization on Robotics and Perception Systems.
+- 🌱 I’m currently studying a PhD in Autonomous Driving.
+- 💞️ I’m looking to collaborate on whatever you think I can be of use in!
 - 📫 How to reach me:
   lmiguel.martinezg@gmail.com
   lmiguel.martinez@edu.uah.es
