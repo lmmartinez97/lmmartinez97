@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on whatever you think I can be of use in!
 - 📫 How to reach me:
   lmiguel.martinezg@gmail.com
-  lmiguel.martinez@edu.uah.es
+  lmiguel.martinez@uah.es
 
 <!---
 lmmartinez97/lmmartinez97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
